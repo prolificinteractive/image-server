@@ -1,0 +1,6 @@
+{
+    "auth": {
+        "username": "image-server-user",
+        "password": /* the password */
+    }
+}
